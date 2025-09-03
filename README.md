@@ -1,19 +1,18 @@
 
----
-
-## ✅ GitHub Description (short):
-
-> A full-stack Online Doctor Appointment Web App built with React, Node.js, Express, and MySQL. Includes role-based access for patients, doctors, and admins with features like appointment scheduling and doctor approval.
-
----
 
 
-## 📝 Updated README.md (with MySQL)
+
+
+ A full-stack Online Doctor Appointment Web App built with React, Node.js, Express, and MySQL. Includes role-based access for patients, doctors, and admins with features like appointment scheduling and doctor approval.
+
+
+
 
 ```markdown
 # 🩺 Online Doctor Appointment Web App
-
+```bash
 A full-stack web application to manage doctor appointments online. It provides login access for patients, doctors, and admins, allowing secure appointment booking, schedule management, and doctor approvals through an interactive dashboard.
+````
 
 ## 🚀 Key Features
 

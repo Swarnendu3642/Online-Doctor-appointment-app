@@ -7,8 +7,6 @@
 
 
 
-
-```markdown
 # 🩺 Online Doctor Appointment Web App
 ```bash
 A full-stack web application to manage doctor appointments online. It provides login access for patients, doctors, and admins, allowing secure appointment booking, schedule management, and doctor approvals through an interactive dashboard.

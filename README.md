@@ -41,7 +41,7 @@ A full-stack web application to manage doctor appointments online. It provides l
 
 ## 🏗️ Project Structure
 
-```
+```bash
 
 Online-Doctor-appointment-app/
 │
@@ -60,8 +60,8 @@ Online-Doctor-appointment-app/
 │
 ├── package.json
 └── README.md
-
 ````
+
 
 ## ⚙️ Getting Started
 
